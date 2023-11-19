@@ -1,12 +1,3 @@
-<a href="https://github.com/Hacker-Jr-TG/Nancy-Bot/stargazers"><img src="https://img.shields.io/github/stars/Hacker-Jr-TG/Nancy-Bot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Hacker-Jr-TG/Nancy-Bot/network/members"> <img src="https://img.shields.io/github/forks/Hacker-Jr-TG/Nancy-Bot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Hacker-Jr-TG/Nancy-Bot"> <img src="https://img.shields.io/github/repo-size/Hacker-Jr-TG/Nancy-Bot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
-<a href="https://github.com/Hacker-Jr-TG/Nancy-Bot/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/Hacker-Jr-TG/Nancy-Bot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Hacker-Jr-TG/Nancy-Bot"> <img src="https://img.shields.io/github/contributors/Hacker-Jr-TG/Nancy-Bot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/Hacker-Jr-TG/Nancy-Bot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
 - [x] 𝐼𝑀𝐷𝐵 𝑇𝑒𝑚𝑝𝑙𝑎𝑡𝑒 𝑆𝑒𝑡
 - [x] 𝐼𝑛𝑑𝑒𝑥𝑒𝑠 𝐹𝑖𝑙𝑒𝑠 𝑎𝑏𝑜𝑣𝑒 2𝐺𝐵
